@@ -1,0 +1,47 @@
+/* CardBook.css */
+
+/* Overall container */
+.cardbook-container {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f4f4f4;
+  }
+  
+  /* Heading styles */
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Card styles */
+  .card {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+  }
+  
+  /* Card content styles */
+  .card-content p {
+    margin: 5px 0;
+    font-size: 16px;
+  }
+  
+  /* Icon container */
+  .icon-container {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  /* Icon styles */
+  .icon-container a {
+    text-decoration: none;
+    color: #007bff;
+    margin: 0 5px;
+  }
+  
+  .icon-container a:hover {
+    color: #0056b3;
+  }
+  
