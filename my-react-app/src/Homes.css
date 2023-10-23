@@ -1,21 +1,24 @@
 /* Home.css */
-
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Outfit:wght@200;300&family=Playpen+Sans:wght@300&family=Poppins:wght@300&family=Quicksand:wght@300;400&family=Urbanist:ital,wght@1,200&family=Work+Sans:ital,wght@1,500&display=swap');
 /* Overall container */
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital@0;1&display=swap');
+
 .home-container {
     margin: 20px;
-    padding: 20px;
-    background-color: #f4f4f4;
+    padding:10px 20px 20px 20px;
+
+    background-color:#7DA2A9;
   }
   
   /* Heading styles */
   h1 {
     font-size: 24px;
-    margin-bottom: 20px;
+    font-family: 'Playpen Sans', 'cursive';
   }
   
   /* Book list container */
   .book-list {
-    background-color: #fff;
+    background-color: #f2f2f2;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
@@ -24,7 +27,7 @@
   /* Add Book button */
   .add-book-button {
     display: inline-block;
-    background-color: #007bff;
+    background-color: #282828;
     color: #fff;
     padding: 10px 20px;
     border: none;
@@ -48,10 +51,11 @@
   th, td {
     padding: 10px;
     text-align: left;
+    font-family: 'Jost', sans-serif;
   }
   
   th {
-    background-color: #007bff;
+    background-color: #282828;
     color: #fff;
   }
   
@@ -76,4 +80,14 @@
   .operation-icons a:hover {
     color: #0056b3;
   }
-  
+  .icon{
+    color:#ffffff;
+    font-size: 15px;
+    
+  }
+  #op{
+   padding-left: 300px;
+  }
+  .bbb{
+    color:white;
+  }

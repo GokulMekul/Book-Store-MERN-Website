@@ -1,53 +1,52 @@
-/* Createbook.css */
+/* Updatebook.css */
 
 /* Overall container */
-.createbook-container {
-   
-  margin-left: 20px;
-  margin-right: 20px;
- padding: 1px 20px 20px 20px;
-    background-color:#7DA2A9;
-  }
-  
-  /* Heading styles */
-  h1 {
+.updatebook-container {
+     margin-left: 20px;
+     margin-right: 20px;
+    padding: 1px 20px 20px 20px;
+    background-color: #7DA2A9;
+
+}
+
+/* Heading styles */
+h1 {
     font-size: 24px;
     margin-bottom: 20px;
-  }
-  
-  /* Form container */
-  .form-container {
-    background-color:#F7F7F7;
+}
+
+/* Form container */
+.form-container {
+    background-color: #F7F7F7;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 40px rgba(0, 0, 0, 0.2);
     width: 500px;
     padding-right: 100px;
     margin-left: 300px;
-  
-      font-family: 'Jost', sans-serif;;
-  }
-  
-  /* Label styles */
-  label {
+    font-family: 'Jost', sans-serif;
+}
+
+/* Label styles */
+label {
     display: block;
     margin-top: 10px;
     font-size: 16px;
     font-weight: bold;
-  }
-  
-  /* Input styles */
-  input {
+}
+
+/* Input styles */
+input {
     width: 100%;
     padding: 10px;
     margin: 5px 0;
     border: 1px solid #ccc;
     border-radius: 5px;
     font-size: 16px;
-  }
-  
-  /* Submit button */
-  button {
+}
+
+/* Submit button */
+button {
     background-color: #007bff;
     color: #fff;
     padding: 10px 20px;
@@ -56,9 +55,8 @@
     font-size: 16px;
     margin-top: 10px;
     cursor: pointer;
-  }
-  
-  button:hover {
+}
+
+button:hover {
     background-color: #0056b3;
-  }
-  
+}

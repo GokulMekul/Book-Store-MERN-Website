@@ -1,7 +1,7 @@
 import React from 'react';
 import axios from 'axios';
 import { useEffect,useState } from 'react';
-import Spinner from './Spinner';
+
 import {Link} from 'react-router-dom';
 import { AiOutlineEdit } from 'react-icons/ai';
 import { BsInfoCircle } from 'react-icons/bs';
@@ -30,7 +30,7 @@ function Home(){
     <div className="home-container">
       <h1>Home</h1>
       <div className="book-list">
-        <h1>Books List</h1>
+        <h1>Books Store</h1>
         <Link to='/CardBook' className="add-book-button">Card</Link>
         <Link to='/books/create' className="add-book-button">
           <MdOutlineAddBox/> Add Book
@@ -43,7 +43,7 @@ function Home(){
             <th>Title</th>
             <th>Author</th>
             <th>Publish Year</th>
-            <th>Operation</th>
+            <th id='op'>Operation</th>
           </tr>
         </thead>
         <tbody>
@@ -56,13 +56,13 @@ function Home(){
               <td>
                 <div className="operation-icons">
                   <Link to={`/books/show/${book._id}`}>
-                    <BsInfoCircle />
+                   <button className='icon'>Show</button>
                   </Link>
                   <Link to={`/books/update/${book._id}`}>
-                    <AiOutlineEdit />
+                    <button className='icon'>Update</button>
                   </Link>
                   <Link to={`/books/delete/${book._id}`}>
-                    <MdOutlineAddBox />
+                   <button className='icon'>Delete</button>
                   </Link>
                 </div>
               </td>

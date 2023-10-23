@@ -42,7 +42,7 @@ return (
       <p>Created At: {new Date(book.createdAt).toString()}</p>
       <p>Updated At: {new Date(book.updatedAt).toString()}</p>
     </div>
-    <button className="back-button" onClick={() => navigate('/')}>Back</button>
+    
   </div>
 );
 

@@ -1,7 +1,18 @@
 import React from 'react';
+import './Homes.css';
 import { Link } from 'react-router-dom';
-function Backbutton(){
 
-    return <Link to={'/'}>Back</Link>
+function BackButton() {
+    const buttonStyle = {
+        color: 'white',
+        textDecoration: 'none', // Add this to remove underline from the link
+    };
+
+    return (
+        <Link to="/" style={buttonStyle}>
+            <button>Back</button>
+        </Link>
+    );
 }
-export default Backbutton;
+
+export default BackButton;
