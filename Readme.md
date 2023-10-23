@@ -1,25 +1,22 @@
 # Book Store 
 Check out master Branch for code
 # Home Page (Detail & CRUD)
+![Screenshot (153)](https://github.com/GokulMekul/Book-Store-MERN-Website/assets/113968152/28412275-a10b-4aec-9dcc-2d991b7ea876)
 
-![Screenshot (145)](https://github.com/GokulMekul/Book-Store-MERN-Website/assets/113968152/97da9718-cfe9-42c2-8efe-a8f200d57424)
 # Create Book
+![Screenshot (155)](https://github.com/GokulMekul/Book-Store-MERN-Website/assets/113968152/cac6bf64-3d5b-4cea-8780-41ddb7fea140)
 
-![Screenshot (146)](https://github.com/GokulMekul/Book-Store-MERN-Website/assets/113968152/0ac4afc0-7dc1-41ae-83de-647654fcdcf9)
 # Show book 
+![Screenshot (156)](https://github.com/GokulMekul/Book-Store-MERN-Website/assets/113968152/95e5479d-9514-4f26-b506-74f8dbea0b9f)
 
-![Screenshot (149)](https://github.com/GokulMekul/Book-Store-MERN-Website/assets/113968152/62bb9b74-5e9f-45db-b669-74a1efa70545)
+
 # update Book
+![Screenshot (157)](https://github.com/GokulMekul/Book-Store-MERN-Website/assets/113968152/d3c50478-611a-4a78-9a83-fe74c6accdf4)
 
-![Screenshot (150)](https://github.com/GokulMekul/Book-Store-MERN-Website/assets/113968152/8a8b3212-2d0f-4a43-aa25-90506bfd8f39)
 # card Book
+![Screenshot (154)](https://github.com/GokulMekul/Book-Store-MERN-Website/assets/113968152/ac3cd931-ee53-4cac-9ea0-8eac64ba8a9c)
 
-![Screenshot (147)](https://github.com/GokulMekul/Book-Store-MERN-Website/assets/113968152/48dee7a9-a98c-4c60-9c1e-4d9ca42f52a5)
-# Delete book
-
-![Screenshot (148)](https://github.com/GokulMekul/Book-Store-MERN-Website/assets/113968152/300ccdd4-7eaf-4d10-b906-d6a5ec71df8d)
-
-
-
+# Delete Book
+![Screenshot (158)](https://github.com/GokulMekul/Book-Store-MERN-Website/assets/113968152/c0fc78b6-de88-4a24-846d-39e4294ae1eb)
 
 
